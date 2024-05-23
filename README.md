@@ -15,9 +15,14 @@ This model was trained using 11479 Turkish comments and the DistilBERT model.
 2938 nötr
 
 
+## Model Files
+The large model file can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1FgqxxIHXfGQshxDnR7QCkPqSWWguj4Bu?usp=sharing).
+Firstly,you should download trained model from this link
+After that,you can git clone this repository and paste files in your local repo.
 
 
 ## Usage
+
 ### import
     import pandas as pd
     from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
