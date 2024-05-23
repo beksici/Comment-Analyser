@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari/data
+
+
+
+https://www.kaggle.com/datasets/ozcan15/turkish-sentiment-analysis-data-beyazperdecom?select=test.csv
+
+https://github.com/fthbrmnby/turkish-text-data
+
+arshive.zip ->  https://www.kaggle.com/datasets/raqhea/turkish-user-review-dataset?select=turkish_user_review_dataset
+
+
+https://huggingface.co/savasy/bert-base-turkish-sentiment-cased  -> 40k+ veri ile eğitilmiş model 
