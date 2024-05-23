@@ -15,6 +15,27 @@ This model was trained using 11479 Turkish comments and the DistilBERT model.
 2938 nötr
 
 
+
+
+    
+## Results
+
+
+![trainin time](https://github.com/beksici/Comment-Analyser/assets/136181100/73b8bf74-490b-406a-b56f-eebc3e99d59d)
+
+
+![result-2](https://github.com/beksici/Comment-Analyser/assets/136181100/2b3968f6-4389-4828-8333-fc761fdba5db)
+
+
+![result-1](https://github.com/beksici/Comment-Analyser/assets/136181100/90256f1c-67f0-43a9-a822-0f49df2e8860)
+
+
+
+
+
+
+
+
 ## Model Files
 The large model file can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1FgqxxIHXfGQshxDnR7QCkPqSWWguj4Bu?usp=sharing).
 
@@ -73,16 +94,3 @@ After that, you can git clone this repository and paste files in your local repo
 
     return predicted_class,predicted_probability
 
-
-
-    
-## Results
-
-
-![trainin time](https://github.com/beksici/Comment-Analyser/assets/136181100/73b8bf74-490b-406a-b56f-eebc3e99d59d)
-
-
-![result-2](https://github.com/beksici/Comment-Analyser/assets/136181100/2b3968f6-4389-4828-8333-fc761fdba5db)
-
-
-![result-1](https://github.com/beksici/Comment-Analyser/assets/136181100/90256f1c-67f0-43a9-a822-0f49df2e8860)
